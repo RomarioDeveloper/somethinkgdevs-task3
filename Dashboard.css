@@ -1,0 +1,13 @@
+body {
+    font-family: 'VT323', monospace;
+    background: #1E1E1E;
+}
+
+.header__logo {
+    text-align: center;
+}
+.someShit {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
