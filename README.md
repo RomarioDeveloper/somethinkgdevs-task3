@@ -49,4 +49,8 @@ https://www.php.net/downloads.php
 
 Authors
 
-> @RomarioDeveloper @Dima12331  	@FleetyFox  
+> @RomarioDeveloper @Dima12331  	@FleetyFox 
+
+Helper 
+
+> @Evgeny1511
